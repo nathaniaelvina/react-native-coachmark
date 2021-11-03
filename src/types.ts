@@ -25,7 +25,7 @@ export interface CoachmarkArrowProps {
 }
 
 export interface CoachmarkContentProps {
-  message: string;
+  message?: string;
   buttonText?: string;
 }
 
