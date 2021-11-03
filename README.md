@@ -61,7 +61,7 @@ import { Coachmark } from 'react-native-coachmark'; // ES6
 
 | Property      | Type               | Default Value | Description                                                 |
 | ------------- | ------------------ | ------------- | ----------------------------------------------------------- |
-| message       | string             | none          | required                                                    |
+| message       | string             | none          | optional                                                    |
 | autoShow      | boolean            | none          | to show the coachmark when mounting                         |
 | onShow        | function           | none          | will be called when coachmark is showing                    |
 | onHide        | function           | none          | will be called when coachmark is hidden                     |
